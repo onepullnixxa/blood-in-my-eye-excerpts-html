@@ -1,2 +1,10 @@
 # BLOOD IN MY EYE
-## Excerpts from George Jackson's letters and essays.
+### Excerpts from George Jackson's letters and essays.
+
+Written in plain HTML, this project is a practice in back-to-basics design and politick.
+
+### Technologies Used
+
+- HTML 5
+- Vercel
+- Fonts generously donated by Mathieu Desjardins and Pangram Pangram Foundry
